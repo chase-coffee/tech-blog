@@ -1,4 +1,4 @@
-# tech-blog
+# tech writing
 
 Hello! My name is Chase and I'm a Product Manager at Microsoft.
 
